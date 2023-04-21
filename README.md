@@ -1,6 +1,6 @@
 # [Adrian Dumitriu]
 
-Hi there! 👋 I'm a recent high honors graduate from Centennial College's Software Engineering program, where I gained expertise in a wide array of exciting new technologies. Before this recent acadeic journey, I accumulated over 10 years of experience in the automotive industry, managing various business operations. My passion lies in web development, cloud computing, IoT applications, ERP & CRM platforms. I'm always eager to learn new skills and collaborate on innovative projects!
+Hi there! 👋 I'm a recent high honors graduate from Centennial College's Software Engineering program, where I gained expertise in a wide array of exciting new technologies. Before this recent academic journey, I accumulated over 10 years of experience in the automotive industry, managing various business operations. My passion lies in web development, cloud computing, IoT applications, ERP & CRM platforms. I'm always eager to learn new skills and collaborate on innovative projects!
 
 ## Education 🎓
 Software Engineering, High Honors Graduate - Centennial College, [2023]  
